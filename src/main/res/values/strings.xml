@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Faculty Timetable</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_find">Find</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_table">Table</string>
+</resources>
